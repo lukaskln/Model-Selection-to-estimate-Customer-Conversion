@@ -35,7 +35,7 @@ based on different measures on the characteristics of the user and their interac
 
 ## The Code 
 
-The code is in R, but Python backend is used to compute neural networks with TensorFlow. The project includes seven scripts going from exploratory analysis and feature engineering/selection, over model estimation, to inference and evaluation. For data rights reasons is the respective dataset not included in this repository. All visualizations done in the code can be found in the graphics folder.
+The code is in R, but Python backend is used to compute neural networks with TensorFlow. The project includes seven scripts going from exploratory analysis and feature engineering/selection, over model estimation, to inference and evaluation. The scripts are numbered since the analysis follows a certain order. For data rights reasons is the respective dataset not included in this repository. All visualizations done in the code can be found in the graphics folder.
 
 ## Contact
 

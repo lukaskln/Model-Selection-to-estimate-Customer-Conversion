@@ -16,7 +16,7 @@
   <p align="center">
     Area of Artificial Intelligence and Machine Learning.
     <br />
-    <a href="https://github.com/lukaskln/Model-Selection-to-estimate-Customer-Conversion"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/lukaskln/Model-Selection-to-estimate-Customer-Conversion/tree/master/Code"><strong>Explore the Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lukaskln/Model-Selection-to-estimate-Customer-Conversion/issues">Report Bug</a>
